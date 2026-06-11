@@ -1,0 +1,241 @@
+text,primary_tag,all_tags
+"We really need an integration with Jira so our support tickets can be automatically pushed to our developer backlog. The current dashboard is good, but adding this feature would make it perfect.",Feature Request,"Feature Request, Product Feedback"
+Where are your servers located and is the data encrypted at rest? Our security team needs this for compliance review.,Data & Privacy,Data & Privacy
+"The search function is excellent, but it would be even better if it cached recent search terms.",Product Feedback,Product Feedback
+Can I get an invoice for my payment on last Tuesday? Our finance department needs it for accounting purposes.,Billing & Payments,Billing & Payments
+It would be great to have role-based access control (RBAC) where we can define custom permissions for viewers and editors.,Feature Request,Feature Request
+It would be great to have role-based access control (RBAC) where we can define custom permissions for viewers and editors.,Feature Request,Feature Request
+Just wanted to say that your support team was incredibly helpful yesterday. Quick and friendly response!,Product Feedback,Product Feedback
+"I am getting an 'unauthorized access' error when trying to view our team folder, even though I am an admin.",Account Access,Account Access
+My subscription shows as inactive even though I paid yesterday. Here is my transaction ID: TXN-98231. Please resolve this.,Billing & Payments,Billing & Payments
+The tool is good but the documentation lacks clear examples for advanced configurations. Please add some tutorials.,Product Feedback,Product Feedback
+"It would be great to have role-based access control (RBAC) where we can define custom permissions for viewers and editors. The current dashboard is good, but adding this feature would make it perfect.",Feature Request,"Feature Request, Product Feedback"
+I am getting a 500 Internal Server Error when clicking on the sync button. Can you look into this? I've tried clearing my cache. This issue started right after I tried to update my password in my account settings.,Technical Support,"Technical Support, Account Access"
+Are there any plans to implement a dark mode? My eyes get really tired reading the screen during night shifts.,Feature Request,Feature Request
+"Hello, my credit card payment failed today. How can I update my billing information to prevent my account from being suspended? Also, when I tried to pay, the screen froze and gave a database error.",Billing & Payments,"Billing & Payments, Technical Support"
+I am really enjoying the new dashboard widgets. It has made tracking our metrics much easier. Thank you!,Product Feedback,Product Feedback
+We really need an integration with Jira so our support tickets can be automatically pushed to our developer backlog.,Feature Request,Feature Request
+"Please delete my account and permanently purge all my data, including my chat logs and file attachments.",Data & Privacy,Data & Privacy
+Could you support SSO (Single Sign-On) via Okta? Our enterprise security policy requires this for all tools.,Feature Request,Feature Request
+My account has been locked due to too many failed login attempts. Can you unlock my email dev-ops@startup.io? I need to resolve this quickly because our security team is auditing our user list for GDPR compliance.,Account Access,"Account Access, Data & Privacy"
+Just wanted to say that your support team was incredibly helpful yesterday. Quick and friendly response!,Product Feedback,Product Feedback
+"The Slack integration is not working. Messages are not being sent to the designated channel. Is the webhook url wrong? By the way, while fixing this, could you also tell me if you support Okta SSO?",Technical Support,"Technical Support, Feature Request"
+I want to change the primary email address associated with my account to dev-ops@startup.io. The option is greyed out in settings.,Account Access,Account Access
+Could you support SSO (Single Sign-On) via Okta? Our enterprise security policy requires this for all tools.,Feature Request,Feature Request
+I need to sign a Data Processing Agreement (DPA) with your company. Who should I contact to get the document signed?,Data & Privacy,Data & Privacy
+My account has been locked due to too many failed login attempts. Can you unlock my email billing@enterprise.co?,Account Access,Account Access
+"Hello, my credit card payment failed today. How can I update my billing information to prevent my account from being suspended?",Billing & Payments,Billing & Payments
+I noticed some suspicious login attempts on my account. Can you share the IP log audit for the last 30 days?,Data & Privacy,Data & Privacy
+I want to opt out of all promotional and tracking cookies. The cookie banner doesn't save my preferences.,Data & Privacy,Data & Privacy
+Just wanted to say that your support team was incredibly helpful yesterday. Quick and friendly response!,Product Feedback,Product Feedback
+"Could you support SSO (Single Sign-On) via Okta? Our enterprise security policy requires this for all tools. The current dashboard is good, but adding this feature would make it perfect.",Feature Request,"Feature Request, Product Feedback"
+My subscription shows as inactive even though I paid yesterday. Here is my transaction ID: TXN-98231. Please resolve this.,Billing & Payments,Billing & Payments
+The latest update removed a shortcut I used every day. I wish there was a way to customize keyboard shortcuts.,Product Feedback,Product Feedback
+I received a charge of $12.50 even though I cancelled my account last week. Please reverse this immediately.,Billing & Payments,Billing & Payments
+"I would like to cancel my premium subscription and revert to the free plan. Please confirm the cancellation details. Also, when I tried to pay, the screen froze and gave a database error.",Billing & Payments,"Billing & Payments, Technical Support"
+It would be great to have role-based access control (RBAC) where we can define custom permissions for viewers and editors.,Feature Request,Feature Request
+I lost access to my multi-factor authentication (MFA) device. Can you disable MFA temporarily so I can log in and reset it?,Account Access,Account Access
+"My subscription shows as inactive even though I paid yesterday. Here is my transaction ID: CHG-7716A. Please resolve this. Also, when I tried to pay, the screen froze and gave a database error.",Billing & Payments,"Billing & Payments, Technical Support"
+The mobile app is extremely slow to load today. It hangs on the login screen for over a minute before giving an connection error.,Technical Support,Technical Support
+"Hello, my credit card payment failed today. How can I update my billing information to prevent my account from being suspended?",Billing & Payments,Billing & Payments
+The Slack integration is not working. Messages are not being sent to the designated channel. Is the webhook url wrong?,Technical Support,Technical Support
+The web application keeps crashing whenever I try to export my report. It displays a white screen and says 'Application Error'.,Technical Support,Technical Support
+Some images are not rendering on my dashboard. They show up as broken image links. Please check the attachment service.,Technical Support,Technical Support
+"Under GDPR regulations, I would like to request a complete export of all personal data your company holds about me.",Data & Privacy,Data & Privacy
+Some images are not rendering on my dashboard. They show up as broken image links. Please check the attachment service.,Technical Support,Technical Support
+Our API calls are getting timed out repeatedly today. Are your servers experiencing downtime or high load?,Technical Support,Technical Support
+Our API calls are getting timed out repeatedly today. Are your servers experiencing downtime or high load?,Technical Support,Technical Support
+We really need an integration with Jira so our support tickets can be automatically pushed to our developer backlog.,Feature Request,Feature Request
+We really need an integration with Jira so our support tickets can be automatically pushed to our developer backlog.,Feature Request,Feature Request
+I am trying to log in but it keeps redirecting me back to the login page without any error message. Please help. I need to resolve this quickly because our security team is auditing our user list for GDPR compliance.,Account Access,"Account Access, Data & Privacy"
+Please add a bulk edit feature to the tables so we can change the status of multiple items at once.,Feature Request,Feature Request
+"The new interface looks absolutely beautiful! Great job on the redesign, it is much cleaner and easier to navigate.",Product Feedback,Product Feedback
+I am trying to log in but it keeps redirecting me back to the login page without any error message. Please help.,Account Access,Account Access
+We really need an integration with Jira so our support tickets can be automatically pushed to our developer backlog.,Feature Request,Feature Request
+Some images are not rendering on my dashboard. They show up as broken image links. Please check the attachment service.,Technical Support,Technical Support
+I need to sign a Data Processing Agreement (DPA) with your company. Who should I contact to get the document signed?,Data & Privacy,Data & Privacy
+I want to opt out of all promotional and tracking cookies. The cookie banner doesn't save my preferences.,Data & Privacy,Data & Privacy
+"I updated my system yesterday, and now the desktop agent won't launch. It fails with error code Code 403-Forbidden.",Technical Support,Technical Support
+"I updated my system yesterday, and now the desktop agent won't launch. It fails with error code ERR_CONNECTION_REFUSED.",Technical Support,Technical Support
+I find the new navigation sidebar to be quite confusing. The previous layout was much more intuitive for daily tasks.,Product Feedback,Product Feedback
+"I received a charge of $12.50 even though I cancelled my account last week. Please reverse this immediately. Also, when I tried to pay, the screen froze and gave a database error.",Billing & Payments,"Billing & Payments, Technical Support"
+It would be great to have role-based access control (RBAC) where we can define custom permissions for viewers and editors.,Feature Request,Feature Request
+"I updated my system yesterday, and now the desktop agent won't launch. It fails with error code Exception in thread 'main'.",Technical Support,Technical Support
+Is there a annual discount option? I am currently on the monthly plan and want to switch to save some costs.,Billing & Payments,Billing & Payments
+I find the new navigation sidebar to be quite confusing. The previous layout was much more intuitive for daily tasks.,Product Feedback,Product Feedback
+Just wanted to say that your support team was incredibly helpful yesterday. Quick and friendly response!,Product Feedback,Product Feedback
+"Hi, I noticed a double charge of $49.00 on my credit card statement for my subscription. Please refund the extra charge. Also, when I tried to pay, the screen froze and gave a database error.",Billing & Payments,"Billing & Payments, Technical Support"
+"Hi, I noticed a double charge of $12.50 on my credit card statement for my subscription. Please refund the extra charge.",Billing & Payments,Billing & Payments
+"Under GDPR regulations, I would like to request a complete export of all personal data your company holds about me.",Data & Privacy,Data & Privacy
+Some images are not rendering on my dashboard. They show up as broken image links. Please check the attachment service.,Technical Support,Technical Support
+I am really enjoying the new dashboard widgets. It has made tracking our metrics much easier. Thank you!,Product Feedback,Product Feedback
+We need to transfer the owner role of our organization account from sarah.smith@company.org to billing@enterprise.co. How can we do this?,Account Access,Account Access
+I forgot my password and the password reset link is not arriving in my inbox. Can you reset it manually or resend the link? I need to resolve this quickly because our security team is auditing our user list for GDPR compliance.,Account Access,"Account Access, Data & Privacy"
+Are there any plans to implement a dark mode? My eyes get really tired reading the screen during night shifts.,Feature Request,Feature Request
+The latest update removed a shortcut I used every day. I wish there was a way to customize keyboard shortcuts.,Product Feedback,Product Feedback
+I lost access to my multi-factor authentication (MFA) device. Can you disable MFA temporarily so I can log in and reset it?,Account Access,Account Access
+"Under GDPR regulations, I would like to request a complete export of all personal data your company holds about me.",Data & Privacy,Data & Privacy
+"I updated my system yesterday, and now the desktop agent won't launch. It fails with error code ERR_CONNECTION_REFUSED.",Technical Support,Technical Support
+"I updated my system yesterday, and now the desktop agent won't launch. It fails with error code 0x80070005.",Technical Support,Technical Support
+The mobile app is extremely slow to load today. It hangs on the login screen for over a minute before giving an connection error.,Technical Support,Technical Support
+I noticed some suspicious login attempts on my account. Can you share the IP log audit for the last 30 days?,Data & Privacy,Data & Privacy
+"The search function is excellent, but it would be even better if it cached recent search terms.",Product Feedback,Product Feedback
+I am really enjoying the new dashboard widgets. It has made tracking our metrics much easier. Thank you!,Product Feedback,Product Feedback
+Is there a annual discount option? I am currently on the monthly plan and want to switch to save some costs.,Billing & Payments,Billing & Payments
+I lost access to my multi-factor authentication (MFA) device. Can you disable MFA temporarily so I can log in and reset it?,Account Access,Account Access
+Our API calls are getting timed out repeatedly today. Are your servers experiencing downtime or high load?,Technical Support,Technical Support
+I am trying to log in but it keeps redirecting me back to the login page without any error message. Please help. I need to resolve this quickly because our security team is auditing our user list for GDPR compliance.,Account Access,"Account Access, Data & Privacy"
+"I am getting an 'unauthorized access' error when trying to view our team folder, even though I am an admin.",Account Access,Account Access
+The Slack integration is not working. Messages are not being sent to the designated channel. Is the webhook url wrong?,Technical Support,Technical Support
+I received a charge of $12.50 even though I cancelled my account last week. Please reverse this immediately.,Billing & Payments,Billing & Payments
+"Hi, I noticed a double charge of $199.00 on my credit card statement for my subscription. Please refund the extra charge. Also, when I tried to pay, the screen froze and gave a database error.",Billing & Payments,"Billing & Payments, Technical Support"
+"The new interface looks absolutely beautiful! Great job on the redesign, it is much cleaner and easier to navigate.",Product Feedback,Product Feedback
+I am trying to log in but it keeps redirecting me back to the login page without any error message. Please help.,Account Access,Account Access
+Some images are not rendering on my dashboard. They show up as broken image links. Please check the attachment service. This issue started right after I tried to update my password in my account settings.,Technical Support,"Technical Support, Account Access"
+Can you add support for webhook notifications? We want to trigger external scripts when a ticket status changes.,Feature Request,Feature Request
+"Hi, I noticed a double charge of $199.00 on my credit card statement for my subscription. Please refund the extra charge.",Billing & Payments,Billing & Payments
+"Hello, my credit card payment failed today. How can I update my billing information to prevent my account from being suspended?",Billing & Payments,Billing & Payments
+The tool is good but the documentation lacks clear examples for advanced configurations. Please add some tutorials.,Product Feedback,Product Feedback
+I want to change the primary email address associated with my account to dev-ops@startup.io. The option is greyed out in settings.,Account Access,Account Access
+I want to opt out of all promotional and tracking cookies. The cookie banner doesn't save my preferences.,Data & Privacy,Data & Privacy
+I am getting a 500 Internal Server Error when clicking on the sync button. Can you look into this? I've tried clearing my cache.,Technical Support,Technical Support
+It would be amazing if we could export our dashboard data directly to a PDF report instead of just CSV.,Feature Request,Feature Request
+The Slack integration is not working. Messages are not being sent to the designated channel. Is the webhook url wrong?,Technical Support,Technical Support
+"Is there a annual discount option? I am currently on the monthly plan and want to switch to save some costs. Also, when I tried to pay, the screen froze and gave a database error.",Billing & Payments,"Billing & Payments, Technical Support"
+"The new interface looks absolutely beautiful! Great job on the redesign, it is much cleaner and easier to navigate.",Product Feedback,Product Feedback
+I need to sign a Data Processing Agreement (DPA) with your company. Who should I contact to get the document signed?,Data & Privacy,Data & Privacy
+"We really need an integration with Jira so our support tickets can be automatically pushed to our developer backlog. The current dashboard is good, but adding this feature would make it perfect.",Feature Request,"Feature Request, Product Feedback"
+I forgot my password and the password reset link is not arriving in my inbox. Can you reset it manually or resend the link?,Account Access,Account Access
+My subscription shows as inactive even though I paid yesterday. Here is my transaction ID: TXN-00129. Please resolve this.,Billing & Payments,Billing & Payments
+I find the new navigation sidebar to be quite confusing. The previous layout was much more intuitive for daily tasks.,Product Feedback,Product Feedback
+"I updated my system yesterday, and now the desktop agent won't launch. It fails with error code Exception in thread 'main'. By the way, while fixing this, could you also tell me if you support Okta SSO?",Technical Support,"Technical Support, Feature Request"
+I lost access to my multi-factor authentication (MFA) device. Can you disable MFA temporarily so I can log in and reset it?,Account Access,Account Access
+I need to sign a Data Processing Agreement (DPA) with your company. Who should I contact to get the document signed?,Data & Privacy,Data & Privacy
+I am getting a 500 Internal Server Error when clicking on the sync button. Can you look into this? I've tried clearing my cache.,Technical Support,Technical Support
+We really need an integration with Jira so our support tickets can be automatically pushed to our developer backlog.,Feature Request,Feature Request
+"We really need an integration with Jira so our support tickets can be automatically pushed to our developer backlog. The current dashboard is good, but adding this feature would make it perfect.",Feature Request,"Feature Request, Product Feedback"
+I am trying to log in but it keeps redirecting me back to the login page without any error message. Please help.,Account Access,Account Access
+I want to change the primary email address associated with my account to john.doe@example.com. The option is greyed out in settings.,Account Access,Account Access
+I need to sign a Data Processing Agreement (DPA) with your company. Who should I contact to get the document signed?,Data & Privacy,Data & Privacy
+"The search function is excellent, but it would be even better if it cached recent search terms.",Product Feedback,Product Feedback
+Are there any plans to implement a dark mode? My eyes get really tired reading the screen during night shifts.,Feature Request,Feature Request
+I am getting a 500 Internal Server Error when clicking on the sync button. Can you look into this? I've tried clearing my cache.,Technical Support,Technical Support
+Just wanted to say that your support team was incredibly helpful yesterday. Quick and friendly response!,Product Feedback,Product Feedback
+I find the new navigation sidebar to be quite confusing. The previous layout was much more intuitive for daily tasks.,Product Feedback,Product Feedback
+The latest update removed a shortcut I used every day. I wish there was a way to customize keyboard shortcuts.,Product Feedback,Product Feedback
+I lost access to my multi-factor authentication (MFA) device. Can you disable MFA temporarily so I can log in and reset it?,Account Access,Account Access
+Is your service SOC 2 compliant? We need to verify your compliance certifications for our annual security audit.,Data & Privacy,Data & Privacy
+My subscription shows as inactive even though I paid yesterday. Here is my transaction ID: PAY-88271. Please resolve this.,Billing & Payments,Billing & Payments
+I lost access to my multi-factor authentication (MFA) device. Can you disable MFA temporarily so I can log in and reset it?,Account Access,Account Access
+I am really enjoying the new dashboard widgets. It has made tracking our metrics much easier. Thank you!,Product Feedback,Product Feedback
+I want to opt out of all promotional and tracking cookies. The cookie banner doesn't save my preferences.,Data & Privacy,Data & Privacy
+"I am getting an 'unauthorized access' error when trying to view our team folder, even though I am an admin. I need to resolve this quickly because our security team is auditing our user list for GDPR compliance.",Account Access,"Account Access, Data & Privacy"
+"I am getting an 'unauthorized access' error when trying to view our team folder, even though I am an admin.",Account Access,Account Access
+I am really enjoying the new dashboard widgets. It has made tracking our metrics much easier. Thank you!,Product Feedback,Product Feedback
+We need to transfer the owner role of our organization account from billing@enterprise.co to dev-ops@startup.io. How can we do this?,Account Access,Account Access
+I need to sign a Data Processing Agreement (DPA) with your company. Who should I contact to get the document signed?,Data & Privacy,Data & Privacy
+Is your service SOC 2 compliant? We need to verify your compliance certifications for our annual security audit.,Data & Privacy,Data & Privacy
+Just wanted to say that your support team was incredibly helpful yesterday. Quick and friendly response!,Product Feedback,Product Feedback
+The tool is good but the documentation lacks clear examples for advanced configurations. Please add some tutorials.,Product Feedback,Product Feedback
+I find the new navigation sidebar to be quite confusing. The previous layout was much more intuitive for daily tasks.,Product Feedback,Product Feedback
+Is there a annual discount option? I am currently on the monthly plan and want to switch to save some costs.,Billing & Payments,Billing & Payments
+"I am getting an 'unauthorized access' error when trying to view our team folder, even though I am an admin.",Account Access,Account Access
+I forgot my password and the password reset link is not arriving in my inbox. Can you reset it manually or resend the link?,Account Access,Account Access
+The latest update removed a shortcut I used every day. I wish there was a way to customize keyboard shortcuts.,Product Feedback,Product Feedback
+I forgot my password and the password reset link is not arriving in my inbox. Can you reset it manually or resend the link?,Account Access,Account Access
+Could you support SSO (Single Sign-On) via Okta? Our enterprise security policy requires this for all tools.,Feature Request,Feature Request
+"Please delete my account and permanently purge all my data, including my chat logs and file attachments.",Data & Privacy,Data & Privacy
+We need to transfer the owner role of our organization account from billing@enterprise.co to dev-ops@startup.io. How can we do this? I need to resolve this quickly because our security team is auditing our user list for GDPR compliance.,Account Access,"Account Access, Data & Privacy"
+The Slack integration is not working. Messages are not being sent to the designated channel. Is the webhook url wrong?,Technical Support,Technical Support
+My subscription shows as inactive even though I paid yesterday. Here is my transaction ID: CHG-7716A. Please resolve this.,Billing & Payments,Billing & Payments
+The Slack integration is not working. Messages are not being sent to the designated channel. Is the webhook url wrong? This issue started right after I tried to update my password in my account settings.,Technical Support,"Technical Support, Account Access"
+I need to sign a Data Processing Agreement (DPA) with your company. Who should I contact to get the document signed?,Data & Privacy,Data & Privacy
+We need to transfer the owner role of our organization account from dev-ops@startup.io to dev-ops@startup.io. How can we do this?,Account Access,Account Access
+Please add a bulk edit feature to the tables so we can change the status of multiple items at once.,Feature Request,Feature Request
+The tool is good but the documentation lacks clear examples for advanced configurations. Please add some tutorials.,Product Feedback,Product Feedback
+Is your service SOC 2 compliant? We need to verify your compliance certifications for our annual security audit.,Data & Privacy,Data & Privacy
+"It would be great to have role-based access control (RBAC) where we can define custom permissions for viewers and editors. The current dashboard is good, but adding this feature would make it perfect.",Feature Request,"Feature Request, Product Feedback"
+Can you add support for webhook notifications? We want to trigger external scripts when a ticket status changes.,Feature Request,Feature Request
+Our API calls are getting timed out repeatedly today. Are your servers experiencing downtime or high load?,Technical Support,Technical Support
+"The new interface looks absolutely beautiful! Great job on the redesign, it is much cleaner and easier to navigate.",Product Feedback,Product Feedback
+Some images are not rendering on my dashboard. They show up as broken image links. Please check the attachment service.,Technical Support,Technical Support
+It would be amazing if we could export our dashboard data directly to a PDF report instead of just CSV.,Feature Request,Feature Request
+The latest update removed a shortcut I used every day. I wish there was a way to customize keyboard shortcuts.,Product Feedback,Product Feedback
+"Hello, my credit card payment failed today. How can I update my billing information to prevent my account from being suspended?",Billing & Payments,Billing & Payments
+"Hello, my credit card payment failed today. How can I update my billing information to prevent my account from being suspended?",Billing & Payments,Billing & Payments
+My subscription shows as inactive even though I paid yesterday. Here is my transaction ID: TXN-00129. Please resolve this.,Billing & Payments,Billing & Payments
+I want to change the primary email address associated with my account to billing@enterprise.co. The option is greyed out in settings.,Account Access,Account Access
+"Under GDPR regulations, I would like to request a complete export of all personal data your company holds about me.",Data & Privacy,Data & Privacy
+I need to sign a Data Processing Agreement (DPA) with your company. Who should I contact to get the document signed?,Data & Privacy,Data & Privacy
+Just wanted to say that your support team was incredibly helpful yesterday. Quick and friendly response!,Product Feedback,Product Feedback
+"I updated my system yesterday, and now the desktop agent won't launch. It fails with error code Exception in thread 'main'.",Technical Support,Technical Support
+"I updated my system yesterday, and now the desktop agent won't launch. It fails with error code 0x80070005.",Technical Support,Technical Support
+Can you add support for webhook notifications? We want to trigger external scripts when a ticket status changes.,Feature Request,Feature Request
+Please add a bulk edit feature to the tables so we can change the status of multiple items at once.,Feature Request,Feature Request
+"Hello, my credit card payment failed today. How can I update my billing information to prevent my account from being suspended?",Billing & Payments,Billing & Payments
+The mobile app is extremely slow to load today. It hangs on the login screen for over a minute before giving an connection error. This issue started right after I tried to update my password in my account settings.,Technical Support,"Technical Support, Account Access"
+"Can you add support for webhook notifications? We want to trigger external scripts when a ticket status changes. The current dashboard is good, but adding this feature would make it perfect.",Feature Request,"Feature Request, Product Feedback"
+"I am getting an 'unauthorized access' error when trying to view our team folder, even though I am an admin. I need to resolve this quickly because our security team is auditing our user list for GDPR compliance.",Account Access,"Account Access, Data & Privacy"
+"Hello, my credit card payment failed today. How can I update my billing information to prevent my account from being suspended? Also, when I tried to pay, the screen froze and gave a database error.",Billing & Payments,"Billing & Payments, Technical Support"
+Where are your servers located and is the data encrypted at rest? Our security team needs this for compliance review.,Data & Privacy,Data & Privacy
+I am trying to log in but it keeps redirecting me back to the login page without any error message. Please help.,Account Access,Account Access
+Can you add support for webhook notifications? We want to trigger external scripts when a ticket status changes.,Feature Request,Feature Request
+I received a charge of $49.00 even though I cancelled my account last week. Please reverse this immediately.,Billing & Payments,Billing & Payments
+"Please delete my account and permanently purge all my data, including my chat logs and file attachments.",Data & Privacy,Data & Privacy
+Is your service SOC 2 compliant? We need to verify your compliance certifications for our annual security audit.,Data & Privacy,Data & Privacy
+"I am getting an 'unauthorized access' error when trying to view our team folder, even though I am an admin.",Account Access,Account Access
+"Please delete my account and permanently purge all my data, including my chat logs and file attachments.",Data & Privacy,Data & Privacy
+Is your service SOC 2 compliant? We need to verify your compliance certifications for our annual security audit.,Data & Privacy,Data & Privacy
+Just wanted to say that your support team was incredibly helpful yesterday. Quick and friendly response!,Product Feedback,Product Feedback
+The web application keeps crashing whenever I try to export my report. It displays a white screen and says 'Application Error'.,Technical Support,Technical Support
+"Is there a annual discount option? I am currently on the monthly plan and want to switch to save some costs. Also, when I tried to pay, the screen froze and gave a database error.",Billing & Payments,"Billing & Payments, Technical Support"
+I am getting a 500 Internal Server Error when clicking on the sync button. Can you look into this? I've tried clearing my cache.,Technical Support,Technical Support
+The tool is good but the documentation lacks clear examples for advanced configurations. Please add some tutorials.,Product Feedback,Product Feedback
+Can you add support for webhook notifications? We want to trigger external scripts when a ticket status changes.,Feature Request,Feature Request
+Are there any plans to implement a dark mode? My eyes get really tired reading the screen during night shifts.,Feature Request,Feature Request
+Please add a bulk edit feature to the tables so we can change the status of multiple items at once.,Feature Request,Feature Request
+"Hello, my credit card payment failed today. How can I update my billing information to prevent my account from being suspended?",Billing & Payments,Billing & Payments
+Is your service SOC 2 compliant? We need to verify your compliance certifications for our annual security audit.,Data & Privacy,Data & Privacy
+"Please delete my account and permanently purge all my data, including my chat logs and file attachments.",Data & Privacy,Data & Privacy
+Is there a annual discount option? I am currently on the monthly plan and want to switch to save some costs.,Billing & Payments,Billing & Payments
+Are there any plans to implement a dark mode? My eyes get really tired reading the screen during night shifts.,Feature Request,Feature Request
+Can I get an invoice for my payment on 2026-06-01? Our finance department needs it for accounting purposes.,Billing & Payments,Billing & Payments
+My account has been locked due to too many failed login attempts. Can you unlock my email sarah.smith@company.org?,Account Access,Account Access
+Is there a annual discount option? I am currently on the monthly plan and want to switch to save some costs.,Billing & Payments,Billing & Payments
+It would be amazing if we could export our dashboard data directly to a PDF report instead of just CSV.,Feature Request,Feature Request
+"The new interface looks absolutely beautiful! Great job on the redesign, it is much cleaner and easier to navigate.",Product Feedback,Product Feedback
+Could you support SSO (Single Sign-On) via Okta? Our enterprise security policy requires this for all tools.,Feature Request,Feature Request
+I want to opt out of all promotional and tracking cookies. The cookie banner doesn't save my preferences.,Data & Privacy,Data & Privacy
+I lost access to my multi-factor authentication (MFA) device. Can you disable MFA temporarily so I can log in and reset it?,Account Access,Account Access
+"I updated my system yesterday, and now the desktop agent won't launch. It fails with error code Exception in thread 'main'.",Technical Support,Technical Support
+My account has been locked due to too many failed login attempts. Can you unlock my email sarah.smith@company.org?,Account Access,Account Access
+My account has been locked due to too many failed login attempts. Can you unlock my email john.doe@example.com?,Account Access,Account Access
+I need to sign a Data Processing Agreement (DPA) with your company. Who should I contact to get the document signed?,Data & Privacy,Data & Privacy
+Can I get an invoice for my payment on last Tuesday? Our finance department needs it for accounting purposes.,Billing & Payments,Billing & Payments
+The mobile app is extremely slow to load today. It hangs on the login screen for over a minute before giving an connection error.,Technical Support,Technical Support
+"Please delete my account and permanently purge all my data, including my chat logs and file attachments.",Data & Privacy,Data & Privacy
+The Slack integration is not working. Messages are not being sent to the designated channel. Is the webhook url wrong?,Technical Support,Technical Support
+My subscription shows as inactive even though I paid yesterday. Here is my transaction ID: TXN-00129. Please resolve this.,Billing & Payments,Billing & Payments
+I noticed some suspicious login attempts on my account. Can you share the IP log audit for the last 30 days?,Data & Privacy,Data & Privacy
+"The search function is excellent, but it would be even better if it cached recent search terms.",Product Feedback,Product Feedback
+I would like to cancel my premium subscription and revert to the free plan. Please confirm the cancellation details.,Billing & Payments,Billing & Payments
+I want to change the primary email address associated with my account to dev-ops@startup.io. The option is greyed out in settings. I need to resolve this quickly because our security team is auditing our user list for GDPR compliance.,Account Access,"Account Access, Data & Privacy"
+Where are your servers located and is the data encrypted at rest? Our security team needs this for compliance review.,Data & Privacy,Data & Privacy
+Could you support SSO (Single Sign-On) via Okta? Our enterprise security policy requires this for all tools.,Feature Request,Feature Request
+The tool is good but the documentation lacks clear examples for advanced configurations. Please add some tutorials.,Product Feedback,Product Feedback
+"I received a charge of $999.00 even though I cancelled my account last week. Please reverse this immediately. Also, when I tried to pay, the screen froze and gave a database error.",Billing & Payments,"Billing & Payments, Technical Support"
+Is your service SOC 2 compliant? We need to verify your compliance certifications for our annual security audit.,Data & Privacy,Data & Privacy
+"I am getting an 'unauthorized access' error when trying to view our team folder, even though I am an admin.",Account Access,Account Access
+The mobile app is extremely slow to load today. It hangs on the login screen for over a minute before giving an connection error.,Technical Support,Technical Support
+Could you support SSO (Single Sign-On) via Okta? Our enterprise security policy requires this for all tools.,Feature Request,Feature Request
+Could you support SSO (Single Sign-On) via Okta? Our enterprise security policy requires this for all tools.,Feature Request,Feature Request
+"Hi, I noticed a double charge of $49.00 on my credit card statement for my subscription. Please refund the extra charge.",Billing & Payments,Billing & Payments
+Please add a bulk edit feature to the tables so we can change the status of multiple items at once.,Feature Request,Feature Request
+Is your service SOC 2 compliant? We need to verify your compliance certifications for our annual security audit.,Data & Privacy,Data & Privacy
+Is your service SOC 2 compliant? We need to verify your compliance certifications for our annual security audit.,Data & Privacy,Data & Privacy
+The tool is good but the documentation lacks clear examples for advanced configurations. Please add some tutorials.,Product Feedback,Product Feedback
+"Hi, I noticed a double charge of $12.50 on my credit card statement for my subscription. Please refund the extra charge.",Billing & Payments,Billing & Payments
+"I would like to cancel my premium subscription and revert to the free plan. Please confirm the cancellation details. Also, when I tried to pay, the screen froze and gave a database error.",Billing & Payments,"Billing & Payments, Technical Support"
+The Slack integration is not working. Messages are not being sent to the designated channel. Is the webhook url wrong?,Technical Support,Technical Support
+I want to opt out of all promotional and tracking cookies. The cookie banner doesn't save my preferences.,Data & Privacy,Data & Privacy
+We really need an integration with Jira so our support tickets can be automatically pushed to our developer backlog.,Feature Request,Feature Request
